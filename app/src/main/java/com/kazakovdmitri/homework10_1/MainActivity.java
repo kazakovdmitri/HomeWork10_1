@@ -15,8 +15,8 @@ import java.util.List;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String ATRIBUTE_NAME_ONE = "one";
-    public static final String ATRIBUTE_NAME_TWO = "two";
+    private static final String ATRIBUTE_NAME_ONE = "one";
+    private static final String ATRIBUTE_NAME_TWO = "two";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
